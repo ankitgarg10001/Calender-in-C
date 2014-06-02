@@ -1,8 +1,5 @@
 /********************************************************/
 /* Project Title: CALENDER IN C 		   	*/
-/* Student Name1: ANKIT GARG	Enrollment # : 10103623	*/
-/* Student Name2: RAJUL KUKREJA	Enrollment # : 10103509	*/
-/* Batch        : B6 			               	*/
 /********************************************************/
 
 
